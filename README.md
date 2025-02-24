@@ -13,13 +13,20 @@ Excited to share my **latest project**—a **URL Shortener** built with **Next.j
 ✅ Connected **MongoDB** to store and retrieve URLs.  
 ✅ Handled **REST APIs** efficiently.  
 
----
+
 # 📌 Technologies Used
 - Next.js
 - MongoDB
 - Tailwind CSS (Tailblocks.cc)
 - REST APIs
 
+## 📞 Contact  
+📧 Aditya Sharma – [LinkedIn](https://www.linkedin.com/in/adityasharma219/) | [GitHub](https://github.com/Aditya-Sharma219)  
+
+⭐ If you like this project, give it a star! 🚀  
+
+
+---
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
