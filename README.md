@@ -1,3 +1,27 @@
+# 🚀 Built My 5th Project: A URL Shortener in Next.js!
+
+Excited to share my **latest project**—a **URL Shortener** built with **Next.js**! 🎯  
+
+## 🔗 How it Works?  
+- Enter a URL and **manually provide a unique short word** for it.  
+- Visiting `localhost:3000/[short-word]` redirects you to the original link.  
+
+## ⚡ What I Learned?  
+✅ Improved my **UI/UX design** skills.  
+✅ Mastered **Next.js routing**.  
+✅ Used **Tailblocks.cc** for ready-to-use **Tailwind CSS** components.  
+✅ Connected **MongoDB** to store and retrieve URLs.  
+✅ Handled **REST APIs** efficiently.  
+
+---
+# 📌 Technologies Used
+- Next.js
+- MongoDB
+- Tailwind CSS (Tailblocks.cc)
+- REST APIs
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
